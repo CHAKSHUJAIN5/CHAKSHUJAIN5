@@ -48,18 +48,18 @@
     <a href="https://nodejs.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/>
     </a>
-    <a href="https://www.php.net" target="_blank" rel="noreferrer">
+<!--     <a href="https://www.php.net" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="50"/>
     </a>
     <a href="https://postman.com" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/>
-    </a>
+    </a> -->
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>
     </a>
-    <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
+<!--     <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
         <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="50" height="50"/>
-    </a>
+    </a> -->
 </div>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chakshujain5&show_icons=true&locale=en" alt="chakshujain5" /></p>
